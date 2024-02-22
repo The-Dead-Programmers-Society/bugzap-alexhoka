@@ -15,3 +15,4 @@ pad_scene = ExtResource("2_f3755")
 patch_scene = ExtResource("6_813co")
 
 [node name="drum" type="Node2D" parent="."]
+position = Vector2(132, 69)
